@@ -87,9 +87,5 @@ uber-clone/
 │   └── package.json
 │
 └── README.md
- ###⚙️ Installation & Setup
-###1️⃣ Clone the Repository
-```git clone https://github.com/your-username/uber-clone.git
-cd uber-clone
-
+ 
 
